@@ -1,0 +1,15 @@
+h1{
+  display: block;
+  background-color: navy;
+  font-size: 36pt;
+  font-color: white;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+p{
+  font-size: 12pt;
+  color: navy;
+}
